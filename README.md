@@ -1,1 +1,1 @@
-# Corporate Event Prediction Using Earnings Call Transcripts
+# Corporate Event Prediction Using Earning Call Transcripts
